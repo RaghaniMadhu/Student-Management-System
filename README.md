@@ -14,3 +14,5 @@ Run this query on command line of oracle database:
  create table student(rno int primary key, name varchar(20) not null, marks int not null);
 
 Finally run a.py file.
+
+Screenshots of the project : https://drive.google.com/drive/folders/1DhFGYARlbs7zeu7fua2npREuLcO1eJbz?usp=sharing
